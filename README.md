@@ -30,20 +30,7 @@ I am a software engineer with a deep passion for solving complex problems relate
   </a>
 </p>
 
----
-
-### 📊 My GitHub Stats
-
-<p align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=[your-github-username]&show_icons=true&locale=en&theme=tokyonight" alt="My GitHub Stats" />
-  </a>
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=[your-github-username]&layout=compact&locale=en&theme=tokyonight" alt="Top Languages" />
-  </a>
-</p>
-
----
+__
 
 ### 🔗 Connect with me
 
