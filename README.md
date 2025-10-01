@@ -1,9 +1,6 @@
-<h1 align="center">Hi, I'm Nicola 👋</h1>
-<h3 align="center">Senior Software Engineer specializing in high-performance systems and concurrent programming.</h3>
+<h3 align="center">Nicola, Senior Software Engineer specializing in high-performance systems and concurrent programming.</h3>
 
 ---
-
-### 👨‍💻 About Me
 
 I am a software engineer with a deep passion for solving complex problems related to performance and scalability. My main focus is on designing and implementing efficient and robust systems, with a strong interest in:
 
@@ -12,8 +9,6 @@ I am a software engineer with a deep passion for solving complex problems relate
 -   🌐 **Networking**: Building low-latency network services and protocols.
 
 ---
-
-### 🛠️ Languages and Technologies
 
 <p align="left">
   <a href="https://www.rust-lang.org" target="_blank" rel="noreferrer">
