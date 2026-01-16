@@ -6,7 +6,7 @@ Focused on architecting high-performance backends and type-safe, distributed sys
 
 -   🚀 **Systems Performance**: Leveraging zero-cost abstractions and memory profiling to minimize latency/overhead.
 -   ⚙️ **Concurrency Models**: Implementing thread-safe, lock-free algorithms and async runtimes.
--   🌐 **Network Engineering**: Designing custom binary protocols for high-throughput data transmission.
+-   🌐 **Network Programming**: Developing high-performance systems for packet capture and real-time processing.
 
 ---
 
