@@ -1,4 +1,4 @@
-<h3 align="center">Nicola, Senior Systems Engineer | Rust, C++ & Haskell Specialist</h3>
+<h3 align="center">Nicola, Senior Systems Engineer | Rust, C++ & Haskell </h3>
 
 ---
 
