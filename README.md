@@ -1,12 +1,12 @@
-<h3 align="center">Nicola, Senior Software Engineer specializing in high-performance systems and concurrent programming.</h3>
+<h3 align="center">Nicola, Senior Systems Engineer | Rust, C++ & Haskell Specialist</h3>
 
 ---
 
-I am a software engineer with a deep passion for solving complex problems related to performance and scalability. My main focus is on designing and implementing efficient and robust systems, with a strong interest in:
+Focused on architecting high-performance backends and type-safe, distributed systems.
 
--   🚀 **Performance Optimization**: Analyzing bottlenecks and refactoring code to maximize efficiency.
--   ⚙️ **Parallel and Concurrent Programming**: Developing safe and effective multi-threaded applications.
--   🌐 **Networking**: Building low-latency network services and protocols.
+-   🚀 **Systems Performance**: Leveraging zero-cost abstractions and memory profiling to minimize latency/overhead.
+-   ⚙️ **Concurrency Models**: Implementing thread-safe, lock-free algorithms and async runtimes.
+-   🌐 **Network Engineering**: Designing custom binary protocols for high-throughput data transmission.
 
 ---
 
@@ -24,7 +24,6 @@ I am a software engineer with a deep passion for solving complex problems relate
     <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="linux"/>
   </a>
 </p>
-
 __
 
 ### 🔗 Connect with me
