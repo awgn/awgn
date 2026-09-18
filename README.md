@@ -1,4 +1,4 @@
-<h3 align="center">Nicola, Senior Systems Engineer | Rust, C++ & Haskell </h3>
+<h3 align="center">Nicola, Senior Software Engineer | PhD, Cloud, Multi-core Architecture | Rust, C++ & Haskell </h3>
 
 ---
 
